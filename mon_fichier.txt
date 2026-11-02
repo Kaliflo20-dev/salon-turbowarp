@@ -1,1 +1,1 @@
-Nouveau contenu global
+[{"type":"text","author":"anofly","text":"salut","avatar":"","align":"gauche","bgColor":"#ffffff","textColor":"#000000"}]
